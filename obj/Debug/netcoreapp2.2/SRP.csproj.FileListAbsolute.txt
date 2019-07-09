@@ -1,0 +1,14 @@
+E:\Apps\SRP\bin\Debug\netcoreapp2.2\SRP.deps.json
+E:\Apps\SRP\bin\Debug\netcoreapp2.2\SRP.runtimeconfig.json
+E:\Apps\SRP\bin\Debug\netcoreapp2.2\SRP.runtimeconfig.dev.json
+E:\Apps\SRP\bin\Debug\netcoreapp2.2\SRP.dll
+E:\Apps\SRP\bin\Debug\netcoreapp2.2\SRP.pdb
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.csprojAssemblyReference.cache
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.csproj.CoreCompileInputs.cache
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.RazorAssemblyInfo.cache
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.RazorAssemblyInfo.cs
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.AssemblyInfoInputs.cache
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.AssemblyInfo.cs
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.RazorTargetAssemblyInfo.cache
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.dll
+E:\Apps\SRP\obj\Debug\netcoreapp2.2\SRP.pdb
